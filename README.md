@@ -57,9 +57,15 @@ The data used in this project includes historical stock prices and various finan
 
 ## Models
 The project explores different machine learning and deep learning models, including:
-- Linear Regression
-- SVR
-- Random Forest
+- Linear Regression <br>
+  ![LR](https://github.com/devshivaniP/Stock-Price-Prediction-model/assets/130980465/707a463e-b79a-4c77-9922-d2ab3da508d0)
+
+- SVR <br>
+![image](https://github.com/devshivaniP/Stock-Price-Prediction-model/assets/130980465/4c9ff9ec-6b32-4c63-aab5-0335d28732cf)
+
+- Random Forest <br>
+![image](https://github.com/devshivaniP/Stock-Price-Prediction-model/assets/130980465/7d36dd86-0dd5-4337-8e82-2f2e90b916fe)
+
 
 ## Evaluation
 Model performance is evaluated using various metrics, including:
