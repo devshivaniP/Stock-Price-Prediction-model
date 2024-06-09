@@ -1,4 +1,6 @@
 # Stock Market Price Prediction(Minor Project)
+![Stock Market](https://github.com/devshivaniP/Stock-Price-Prediction-model/assets/130980465/72be4d89-2c8c-402a-ae61-a9d8275bd2fb)
+
 
 ## Overview
 This project aims to predict stock market prices using various machine learning techniques. By analyzing historical stock prices and other relevant financial data, the model can provide insights and forecasts for future stock prices. This can be valuable for traders, investors, and financial analysts.
