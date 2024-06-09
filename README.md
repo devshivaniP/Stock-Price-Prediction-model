@@ -89,4 +89,3 @@ I would like to thank the contributors and the open-source community for their v
 4. https://towardsdatascience.com/unlocking-the-true-power-of-support-vector-regression-847fd123a4a0#:~:text=Support%20Vector%20Regression%20is%20a,the%20maximum%20number%20of%20points.
 
 5. https://www.researchgate.net/publication/331279199_Stock_Market_Prediction_Using_Machine_Learning
-6. Predicting the direction of stock market prices using random forest by [Luckyson Khaidem](khaidem90@gmail.com), [Snehanshu Saha](snehanshusaha@pes.edu) and [Sudeepa Roy Dey](sudeepar@pes.ed)
